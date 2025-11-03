@@ -289,7 +289,7 @@ public class HomeworkBot extends TelegramLongPollingBot {
                         "📚 <b>Turi:</b> %s\n" +
                         "👤 <b>O'quvchi:</b> %s\n" +
                         "🎓 <b>Sinf:</b> %s\n" +
-                        "━━━━━━━━━━━━━━━━━━━━\n\n" +
+                        "━━━━━━━━━━━━━━━━━━━━\n\n"  +
                         "📝 <b>Tavsif:</b>\n%s\n\n" +
                         "⏰ <b>Sana:</b> %s\n" +
                         "━━━━━━━━━━━━━━━━━━━━\n\n" +
